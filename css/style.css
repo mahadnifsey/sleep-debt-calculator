@@ -17,6 +17,6 @@ body{
 	flex-direction: column;
 }
 
-.container h1 {
+.container h1,h3 {
 	color: white;
 }
